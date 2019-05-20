@@ -1,0 +1,51 @@
+/*
+* Cara Quinlan
+* Due date
+* sematic elements
+*/
+
+/* The universal selector */
+
+* {margin;0;
+padding:0;}
+
+/* Body attributes here */
+
+h1{background-color: #ffffb3;
+border:5px dotted pink;
+padding:10px;
+margin: 10px;
+text-align: center;}
+
+body{background-color:#ffff99}
+
+#honeybees { width: 300px; 
+height: 150;
+border:5px solid pink;
+margin:15px;}
+
+#honeybees {float: left;}
+
+h3 {color: #3463af;}
+
+ul, li {list-style-position:inside;}
+
+#download4 { width:200px;
+height: 150px;border:5px solid pink;
+margin:10px;}
+
+#download5 { width: 200px;
+height: 150px;border:5px solid pink;
+margin:10px;}
+
+#download6 { width: 200px;
+height: 150px;border:5px solid pink;
+margin:10px;}
+
+#image2 {width: 200px;
+height: 150px;border:5px solid pink;
+margin:10px;}
+
+#p01 {width:200px;
+height: 150px;border:5px solid pink;
+margin:10px;}
